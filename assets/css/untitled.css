@@ -1,0 +1,39 @@
+#mb-1 {
+  color: white;
+}
+
+#mb-5_under {
+  color: wheat;
+}
+
+.btn-xl.js-scroll-trigger {
+  background-color: white;
+  border-radius: 30px;
+  color: black;
+}
+
+#services {
+  background-color: #000000;
+}
+
+.content-section {
+}
+
+#section_contact {
+  background-color: #000000;
+}
+
+.map iframe {
+  pointer-events: none;
+}
+
+.bg-primary {
+  /*--bs-bg-opacity: 1;*/
+  /*background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;*/
+}
+
+.bg-primary {
+  /*--bs-bg-opacity: 1;*/
+  /*background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;*/
+}
+
